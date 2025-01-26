@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "f745f0178e0d3bb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f7e3c57ab6745f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75da9a45fc2f7bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All Tasks/Task - Purchasing Ticket in Germany - UX Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task - Purchasing Ticket in Germany - UX Research"
+            }
+          },
+          {
+            "id": "b5c50d0a9f28ae6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Model/Task Model - Traveling Across Cities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task Model - Traveling Across Cities"
+            }
+          },
+          {
+            "id": "012f8497eefdf957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Model/Task Model - Ticket Purchase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task Model - Ticket Purchase"
+            }
+          },
+          {
+            "id": "106bd4459aa991c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task - Purchasing Ticket in Germany - UX Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task - Purchasing Ticket in Germany - UX Research"
+            }
+          },
+          {
+            "id": "3aa8a5a2c4e7d8ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task - Purchasing Ticket in Germany - UX Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task - Purchasing Ticket in Germany - UX Research"
+            }
+          },
+          {
+            "id": "528de398872f92c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Model/Task Model - Ticket Purchase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task Model - Ticket Purchase"
+            }
+          },
+          {
+            "id": "e12c1547546ec7f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "709dfeaa773da943",
+    "type": "split",
+    "children": [
+      {
+        "id": "62bfbda34e1efe45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7186559526588d61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e6ad1631e48c3153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffe0527a21bb66c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "9fcbb37bca4cbba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4814be2f7e8d08fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95638cf7dd80e304",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "88fc101e47098137",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vault 2/Context of Use/User Group Profile.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from User Group Profile"
+            }
+          },
+          {
+            "id": "a2b44177012c094a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85cbb10d8610e994",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vault 2/Context of Use/User Group Profile.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of User Group Profile"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b5c50d0a9f28ae6b",
+  "lastOpenFiles": [
+    "All Tasks/Task - Late Night Bus ride - UX Research.md",
+    "Analysis/User Journey Map - Late Night Bus ride.md",
+    "Requirements/User Requirements - Late Night Bus ride.md",
+    "All Tasks/Task - Purchasing Ticket in Germany - UX Research.md",
+    "Task Object/Task Object - Ticket Purchase.md",
+    "Task Object/Task Object - Late Night Bus ride.md",
+    "Task Model/Task Model - Traveling Across Cities.md",
+    "Task Model/Task Model - Ticket Purchase.md",
+    "Task Model/Task Model - Late Night Bus ride.md",
+    "Requirements/User Requirements - Traveling Across Cities.md",
+    "Requirements/User Requirements - Ticket Purchase.md",
+    "Analysis/Tool Comparison Matrix - Late Night Bus ride.md",
+    "All Tasks/Task - Traveling Across Cities with Connecting Trains - UX Research.md",
+    "Templater.md",
+    "Data view/dashboard.md",
+    "User Group - International Students.md",
+    "Persona.md",
+    "2025-01-06.md",
+    "UX Research.md",
+    "Tasks.md",
+    "Untitled.canvas",
+    "Task Model.md",
+    "project.md",
+    "User Needs/User Needs.md",
+    "Analysis/User Journey Map - Traveling Across Cities.md",
+    "Analysis/User Journey Map - Ticket Purchase.md",
+    "User Needs/Resource Needs - Late Night Bus ride.md",
+    "Data view",
+    "Vault 1/Requirements",
+    "Requirements",
+    "Task Object",
+    "Task Model",
+    "Template"
+  ]
+}
