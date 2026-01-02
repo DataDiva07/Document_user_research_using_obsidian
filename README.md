@@ -11,8 +11,8 @@ advanced markdown-based tool that supports bi-directional linking, graph visuali
 and dynamic querying. By structuring research data into a scalable
 schema-based system, we ensure that UX researchers can:
 
-– Document UX findings systematically in an interlinked, searchable format.
-– Ensure traceability from user research to design decisions.
-– Automate research insights retrieval using Dataview queries and Graph View.
-– Create reusable research templates for interview transcripts, tasks, taskmodels,
+* Document UX findings systematically in an interlinked, searchable format.
+* Ensure traceability from user research to design decisions.
+* Automate research insights retrieval using Dataview queries and Graph View.
+* Create reusable research templates for interview transcripts, tasks, taskmodels,
 and other deliverables.
